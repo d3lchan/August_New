@@ -1,0 +1,3 @@
+code is auto_e and exe file is autotyper2.
+Usage: open cmd and go to path wherever you uploaded and then type:
+autotyper.exe "your_auto_typing_file_path"
